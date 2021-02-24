@@ -67,7 +67,6 @@ class ConfirmationsController < Milia::ConfirmationsController
         
         end
         
-        Then add another method underneath it:
         
         def after_confirmation_path_for(resource_name, resource)
         
